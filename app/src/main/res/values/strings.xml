@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">QuizApp</string>
+    <string name="true_text">True</string>
+    <string name="false_text">False</string>
+    <string name="prev_text">Previous</string>
+    <string name="next_text">Next</string>
+
+    <string name="wrong_answer">That\'s Incorrect</string>
+    <string name="right_answer">That\'s Correct</string>
+
+    <string name="question_language">Bangladeshese is the national language of Bangladesh</string>
+    <string name="question_currency">Taka is the currency of Bangladesh</string>
+    <string name="question_knownFor"> Dhaka, the capital of Bangladesh, known as The City of Mosques</string>
+    <string name="question_Bigger">Bangladesh is bigger than Pakistan</string>
+    <string name="question_export">Textile is a main export of Bangladesh</string>
+    <string name="question_transport">Rickshaw is a common mode of transport in Bangladeshi cities</string>
+    <string name="question_meaning">Bangladesh means Land of Bengalis</string>
+    <string name="corona_virus_symtops">Corona Virus Symtops</string>
+    <string name="_1st_3rd_day">1st-3rd Day</string>
+    <string name="firstToThirdDay">Fever, slight pain in the neck</string>
+    <string name="_4th_day">4th Day</string>
+    <string name="fourthDay">Pain in the neck,Heavy voice,Fever, headache</string>
+    <string name="_5th_day">5th Day</string>
+    <string name="fifthDay">Laziness, Bodypain, Dry cough</string>
+    <string name="_6th_day">6th Day</string>
+    <string name="sixthDay">Slight fever, Dry cough, Breathing problem, Vomit</string>
+    <string name="_7th_day">7th Day</string>
+    <string name="seventhDay">High fever, To much cough, Body pain,</string>
+    <string name="seventhDay2"><![CDATA[Constipation & Vomit]]></string>
+    <string name="take_a_moment_to_read_before_you_start_the_game">**Take a moment to read, before you start the game**</string>
+    <string name="click_on_the_image">Click on the image:</string>
+    <string name="click_here_to_start_the_game">Click here to Start the game</string>
+    <string name="welcome_to_quiz_app">Welcome to Quiz Game</string>
+    <string name="enter_your_name_here">Type your name here</string>
+    <string name="your_total_correct_answer_is">Your total correct answer is:</string>
+    <string name="click_here_to_go_to_main_menu">Click here to go to Main menu</string>
+    <string name="congratulations">Congratulations,</string>
+    <string name="there_will_be_total_7_true_false">There will be total 7 True/False. You have to attempt each statement</string>
+</resources>
