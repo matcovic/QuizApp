@@ -3,4 +3,4 @@ Mini project for Assignment 2 named QuizApp. There are in total four activities 
 
 Student ID: 180104001
 
-Lab Group: A1
+Lab Section: A1
